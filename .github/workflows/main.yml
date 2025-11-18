@@ -1,4 +1,4 @@
-name: deploy UchihaDanzo
+name: deploy HakunoMsststs
 
 on:
   push:
